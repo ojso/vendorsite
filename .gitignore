@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# nodejs
+/node_modules/
+package-lock.json
+
+# public directory
+/public/
+
