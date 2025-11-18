@@ -4,6 +4,7 @@
   "description": "vendors for css,js and so on.",
   "main": "index.js",
   "scripts": {
+    "link_modules":"node link-modules.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David.Dong.Hua",
